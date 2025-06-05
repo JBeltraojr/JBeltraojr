@@ -1,11 +1,4 @@
-## Olá todos 👋
-
-# Cabeçalho 1
-## Cabeçalho 2
-### Cabeçalho 3
-#### Cabeçalho 4
-##### Cabeçalho 5
-###### Cabeçalho 6
+# Olá todos 👋
 
 <!--
 **JBeltraojr/JBeltraojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
