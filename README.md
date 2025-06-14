@@ -19,6 +19,9 @@ ______
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-beltr%C3%A3o-344611207/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
+<a href="mailto:jbeltraojunior@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+</a>
 </div>
 
 
